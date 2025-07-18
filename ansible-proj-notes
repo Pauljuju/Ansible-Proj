@@ -29,7 +29,7 @@
     Install/Enable: sudo amazon-linux-extras enable ansible2
                     sudo yum install ansible -y
 
-9. create inventory file
+9. create inventory file, copy and paste private Ips from Target Nodes to inventory
 
 10. create playbook
     deploy-techm.yml
