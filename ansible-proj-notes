@@ -2,7 +2,6 @@
     - ssh from ip
 
 2. create the server sg 
-    ssh from ansible-machine sg
     http from port 80
     select ssh-customised port 22 - ansible master SG
 
